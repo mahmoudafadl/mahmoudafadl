@@ -31,7 +31,7 @@ and practical machine learning solutions.
 `Data Visualization` `Feature Engineering` `Feature Selection`
 
 ### Machine Learning
-`Scikit-learn` `XGBoost` `LightBoost` `CatBoost`
+`Scikit-learn` `Gradient Boosting`
 
 `Classification` `Regression` `Clustering` `Association Rules`
 `Model Evaluation` `Cross Validation` `Hyperparameter Tuning`
@@ -64,6 +64,8 @@ credit card transactions.
 - Streamlit Deployment
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost, Streamlit
+
+[Live Demo](https://ai-powered-fraud-detection.streamlit.app/)
 
 ---
 
@@ -133,7 +135,7 @@ Intensive training covering:
 
 📧 **Email:** mahmoudafadl5@gmail.com
 
-💼 **LinkedIn:** Mahmoud Abbas
+💼 **LinkedIn:** [Mahmoud Abbas](www.linkedin.com/in/mahmoud-abbas-fadl)
 
 🐙 **GitHub:** mahmoudafadl
 
