@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mahmoud Abbas
 
-### Data Science Student | Machine Learning | Data Analysis | Big Data
+### Data Science Student . Machine Learning . Data Analysis . Big Data
 
 I am a final-year Information Systems student focused on Data Science,
 Machine Learning, and data-driven solutions.
@@ -13,7 +13,7 @@ and practical machine learning solutions.
 ## 👨‍💻 About Me
 
 - 🎓 Final-year Information Systems student at The Faculty of Computers and AI, Capital University
-- 📊 Data Scientist — DEPI / IBM Data Scientist Track
+- 📊 Data Scientist Trainee — DEPI / IBM Data Scientist Track
 - 🤖 Machine Learning Trainee — NTI / ITIDA
 - 🐍 Working mainly with Python and SQL
 - 📈 Interested in Data Analysis, Machine Learning, and Big Data
