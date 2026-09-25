@@ -4,7 +4,7 @@
 
 ### Data Science • Machine Learning • Data Analysis • Big Data
 
-Turning raw data into practical, real-world solutions.
+Turning data into practical insights and real-world solutions.
 
 </div>
 
@@ -50,6 +50,7 @@ Turning raw data into practical, real-world solutions.
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 `REST APIs`
 
@@ -74,15 +75,6 @@ Turning raw data into practical, real-world solutions.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=mahmoudafadl&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=mahmoudafadl&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -93,10 +85,6 @@ Turning raw data into practical, real-world solutions.
 
 <a href="https://www.linkedin.com/in/mahmoud-abbas-fadl">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mahmoudafadl">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
