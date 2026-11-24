@@ -1,10 +1,10 @@
 <!-- Header Wave Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mahmoud%20Abbas&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Big%20Data&descAlignY=60&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mahmoud%20Abbas&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Data%20Analysis&descAlignY=60&descSize=16" width="100%" />
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+Data+into+Practical+Insights;ML+Pipelines+%E2%80%A2+Big+Data+%E2%80%A2+Model+Deployment" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+Data+into+Practical+Insights;ML+Pipelines+%E2%80%A2+Data+Analysis+%E2%80%A2+Model+Deployment" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-EB4034?style=for-the-badge&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=python&logoColor=white" />
@@ -57,17 +58,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/DEPI-IBM_Data_Scientist_Track-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/NTI_%2F_ITIDA-Machine_Learning_Training-00A86B?style=for-the-badge" />
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmoudafadl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudafadl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
-  <br/>
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoudafadl&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
