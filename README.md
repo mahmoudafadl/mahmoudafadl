@@ -10,17 +10,6 @@ Turning data into practical insights and real-world solutions.
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 Final-year Information Systems student at the Faculty of Computers and AI, Capital University
-- 📊 Data Scientist Trainee — DEPI / IBM Data Scientist Track
-- 🤖 Machine Learning Trainee — NTI / ITIDA
-- 🐍 Working mainly with Python and SQL
-- 📈 Focused on Data Analysis, Machine Learning, and Big Data
-- 🚀 Building practical end-to-end data projects
-
----
-
 ## 🛠️ Tech Stack
 
 **Data Analysis & Visualization**
